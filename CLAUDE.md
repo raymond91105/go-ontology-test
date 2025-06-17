@@ -103,7 +103,7 @@ terms to "skip" the obsoleted term.
 
 - Link back to the issue you are dealing with using the `term_tracker_item`
 - All terms should have definitions, with at least one definition xref, ideally a PMID
-- You can sign terms as `created_by: dragon-ai-agent`
+- You can sign terms as `created_by: dragon-ai-agent`, only for new terms.
 
 ## Relationships
 
