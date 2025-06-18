@@ -102,7 +102,7 @@ terms to "skip" the obsoleted term.
 ## Other metadata
 
 - Link back to the issue you are dealing with using the `term_tracker_item`
-- All terms should have definitions, with at least one definition xref, ideally a PMID. If a unique RHEA is provided as a general xref or link, it should be included as a definition xref, and as a xref with {source="skos:exactMatch"}.
+- All terms should have definitions, with at least one definition xref, ideally a PMID. If a unique RHEA is provided as a general crossreference or link, it should be added to the definition xref (along with any PMID), and additionally, as a xref with {source="skos:exactMatch"}.
 - You can sign terms as `created_by: dragon-ai-agent`, only for new terms.
 
 ## Relationships
